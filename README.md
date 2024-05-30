@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sansh2356&label=Profile%20views&color=0e75b6&style=flat" alt="sansh2356" /> </p>
 
-- 🔭 I’m currently working on **Skull-reconstruction**
-
-- 🌱 I’m currently learning **reactjs and nodejs**
-
 - 📫 How to reach me **sansh2356@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
