@@ -3,7 +3,7 @@
 
 <p align="left">I am a Competetive programmer , open-source contributor and Machine Learning Enthusiast with a huge love for C++ , C , Rust , Python . </p>
 
-- 🌱 I’m currently learning **Bitcoin Core and Anchor**
+- 🌱 I’m currently learning **Embedded Programming and GPU enhancement**
 
 <!--Competetive programming Section--> 
 
