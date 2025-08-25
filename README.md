@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning **Embedded Programming and GPU enhancement** 
 
-<!--Competetive programming Section--> 
+<!--Competetive programming Section-->  
 
 <h2 align="center">💻 Competetive Programming 💻</h2>
 <div align="center">
