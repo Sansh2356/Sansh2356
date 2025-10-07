@@ -1,10 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !
 <h1 align="center">Hi  👋, I'm Ansh  </h1>  
       
-<p align="left">I am a Competetive programmer,open-source contributor and Machine Learning Enthusiast with a huge love for C++ , C , Rust , Python . </p>
-      
-- 🌱 I’m currently learning **Embedded Programming and GPU enhancement** 
- 
+<p align="left">I am a Competetive programmer and Satoshi having keen interest in C++,C and Rust. </p>
+       
 <!--Competetive programming Section-->  
 
 <h2 align="center">💻 Competetive Programming 💻</h2>
