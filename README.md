@@ -1,28 +1,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World !
 <h1 align="center">Hi  👋, I'm Ansh  </h1>  
        
-<p align="left">I am a Competetive programmer and Satoshi having keen interest in C++ , C and Rust. </p>
+<p align="left">I am a Satoshi and a rustacean along with C++. </p>
        
-<!--Competetive programming Section-->  
-
-<h2 align="center">💻 Competetive Programming 💻</h2>
-<div align="center">
-
-<a href="https://leetcode.com/u/sansh2356/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
-</a>
-
-</div>
-
-<br />
-
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,html,css,nodejs,django,solidity,postgres,vscode,docker,aws,postman,linux,git,kubernetes,c,vim,windows,vite,vercel,ts,threejs,tensorflow,tailwind,sklearn,sublime,redux,redis,react,opencv,npm,nodejs,nextjs,mongodb,materialui,md,kali,kafka,js,graphql,flask,firebase,express,cpp,blender,androidstudio,go,neovim,bash,ubuntu,vue,angular&perline=10"  />
-</p>
-<br />
-
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
