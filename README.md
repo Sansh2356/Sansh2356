@@ -10,7 +10,7 @@
   I’ll be graduating in <b>2026</b> with a <b>B.E. in Computer Science</b> from <b>UIET, Panjab University</b>.  
   My goal is to keep building and contributing toward making decentralization more accessible and practical.  
   <br/><br/>
-  Outside of development, I’m an avid sports enthusiast who enjoys watching all kinds of games.  
+  Outside of development, I’m an avid sports enthusiast who enjoys watching all kinds of sports.  
   <br/><br/>
   Feel free to reach out to me at  
   <a href="mailto:sansh2356@gmail.com"><b>sansh2356@gmail.com</b></a>.
