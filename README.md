@@ -4,11 +4,10 @@
 <p align="center">
   I’m a <b>Satoshi</b> and a passionate <b>Rustacean</b> who also loves working with <b>C++</b> and <b>Bitcoin</b>.  
   <br/><br/>
-  I’m currently contributing to <b>Braidpool</b> — a decentralized mining pool project that aims to empower true decentralization in Bitcoin mining for downstream users on a Grant from <b>Bitshala</b>.  
+  I’m currently contributing to <b>Braidpool</b> — a decentralized mining pool project that aims to empower true decentralization in Bitcoin mining for downstream users from support of a from grant from  <b>Bitshala</b> and currently working as a full time SDE on a grant from <b>Btrust</b>.  
   Alongside this, I actively explore the <b>Stratum V2</b> protocol and the <b>Rust compiler (rustc)</b>.  
-  <br/><br/>
-  I’ll be graduating in <b>2026</b> with a <b>B.E. in Computer Science</b> from <b>UIET, Panjab University</b>.  
-  My goal is to keep building and contributing toward making decentralization more accessible and practical.  
+  <br/><br/>  
+  My goal is to keep building bitcoin and contributing toward making mining decentralization more accessible and practical.  
   <br/><br/>
   Outside of development, I’m an avid sports enthusiast who enjoys watching all kinds of sports.  
   <br/><br/>
